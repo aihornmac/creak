@@ -1,0 +1,25 @@
+{
+  "name": "creak",
+  "version": "0.0.1",
+  "description": "a auto deployment tool for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aihornmac/creak.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "automatic",
+    "deployment"
+  ],
+  "author": "Aihorn Mac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aihornmac/creak/issues"
+  },
+  "homepage": "https://github.com/aihornmac/creak#readme"
+}
